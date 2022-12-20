@@ -9,12 +9,12 @@
       "PackagePath": "staticwebassets\\img\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpeg",
-      "PackagePath": "staticwebassets\\img\\2.jpeg"
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpeg",
-      "PackagePath": "staticwebassets\\img\\3.jpeg"
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
     },
     {
       "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg",
@@ -53,8 +53,8 @@
       "PackagePath": "staticwebassets\\img\\WhatsApp Image 2022-01-27 at 23.30.40.jpeg"
     },
     {
-      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpeg",
-      "PackagePath": "staticwebassets\\img\\mayis.jpeg"
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpg",
+      "PackagePath": "staticwebassets\\img\\mayis.jpg"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.shopapp.webui.props",

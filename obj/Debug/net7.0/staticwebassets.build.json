@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HjCrSqQT6FCYnlzQnfgxkMIjYY0blkSvK8EUhsDm4mI=",
+  "Hash": "JybhckpQbF+RyqHC/llu5Z1jt2z8ffH7ujiIe2ukIsI=",
   "Source": "shopapp.webui",
   "BasePath": "_content/shopapp.webui",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "wwwroot\\img\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpeg",
+      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
-      "RelativePath": "img/2.jpeg",
+      "RelativePath": "img/2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\2.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpeg",
+      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
-      "RelativePath": "img/3.jpeg",
+      "RelativePath": "img/3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\3.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpeg",
+      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
-      "RelativePath": "img/mayis.jpeg",
+      "RelativePath": "img/mayis.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\mayis.jpeg"
+      "OriginalItemSpec": "wwwroot\\img\\mayis.jpg"
     },
     {
       "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg",

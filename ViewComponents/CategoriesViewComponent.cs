@@ -4,19 +4,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using shopapp.webui.Models;
+using shopapp.webui.Data;
 
 namespace shopapp.webui.ViewComponents
 {
     public class CategoriesViewComponent: ViewComponent
     {
         public IViewComponentResult Invoke(){
-            var categories=new List<Category>()
-            {
-                new Category{Name="tek kişilik",Description="Horror Game"},
-                new Category{Name="çok kişilik",Description="Funny Game"},
-                new Category{Name="iki kişilik",Description="Love Game"}
-            };
-            return View(categories);
+            if(RouteData.Values["action"].ToString()=="list")
+                ViewBag.SelectedCategory=RouteData?.Values["id"];
+            return View(CategoryRepository.Category);
         }
     }
 }
