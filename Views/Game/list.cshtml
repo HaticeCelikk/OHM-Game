@@ -1,0 +1,28 @@
+@model GameViewModel
+
+@{ //server tag
+	var popularClass=Model.Game.Count>2? "popular":"";
+	var games=Model.Game; // wesgssd
+}
+
+@section Categories
+{
+	@await Component.InvokeAsync("Categories")
+}
+
+
+@* ürünler gelecek *@
+	@if (Model.Game.Count==0)
+	{
+		@await Html.PartialAsync("_noproduct");
+	}
+	else{
+	<div class = "row">
+		@foreach (var game in Model.Game)
+		{
+			<div class = "col-md-3">
+				@await Html.PartialAsync("_product",game)
+			</div>
+		}
+	</div>
+	}

@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpeg",
+      "PackagePath": "staticwebassets\\img\\2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpeg",
+      "PackagePath": "staticwebassets\\img\\3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (3).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (4).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (5).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (5).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.08.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (1).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (3).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (4).jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2022-01-27 at 23.30.40.jpeg",
+      "PackagePath": "staticwebassets\\img\\WhatsApp Image 2022-01-27 at 23.30.40.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpeg",
+      "PackagePath": "staticwebassets\\img\\mayis.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.shopapp.webui.props",
+      "PackagePath": "build\\shopapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.shopapp.webui.props",
+      "PackagePath": "buildMultiTargeting\\shopapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.shopapp.webui.props",
+      "PackagePath": "buildTransitive\\shopapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.shopapp.webui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
