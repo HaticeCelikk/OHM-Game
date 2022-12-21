@@ -5,12 +5,19 @@
   "name": "shopapp.webui",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaticeCelikk/OHM-Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HaticeCelikk/OHM-Game/issues"
+  },
+  "homepage": "https://github.com/HaticeCelikk/OHM-Game#readme",
   "description": ""
 }

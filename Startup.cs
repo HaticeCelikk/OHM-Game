@@ -10,6 +10,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
+using MySql.Data.MySqlClient;
+using shopapp.data.Concrete.EFCoreRepository;
+using shopapp.data.Abstract;
 
 namespace shopapp.webui
 {
@@ -17,6 +20,7 @@ namespace shopapp.webui
     {
         public Startup(IConfiguration configuration)
         {
+            
             Configuration = configuration;
         }
 
@@ -25,6 +29,7 @@ namespace shopapp.webui
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddScoped<IGameRepository,EFCoreGameRepository>();
             services.AddControllersWithViews(); //viewler ve controllerları kullanacağımı burada belirtiyoruz
         }
 

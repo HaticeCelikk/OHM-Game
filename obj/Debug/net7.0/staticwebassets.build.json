@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JybhckpQbF+RyqHC/llu5Z1jt2z8ffH7ujiIe2ukIsI=",
+  "Hash": "LuEymrpRiv6E8DaxLtNwF7FMDUZezoBUTvFQflGLE3E=",
   "Source": "shopapp.webui",
   "BasePath": "_content/shopapp.webui",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "shopapp.webui\\wwwroot",
       "Source": "shopapp.webui",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\css\\style.css",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\1.jpg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/1.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\img\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\2.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/2.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\img\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\3.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/3.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\img\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\mayis.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/mayis.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mayis.jpg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (2).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (3).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (3).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.08 (3).jpeg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (3).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (4).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (4).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.08 (4).jpeg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (4).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (5).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (5).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.08 (5).jpeg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08 (5).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08.jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08.jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.08.jpeg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.08.jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (1).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (1).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.09 (1).jpeg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (3).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (3).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.09 (3).jpeg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (3).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (4).jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (4).jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2021-10-31 at 12.34.09 (4).jpeg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\WhatsApp Image 2021-10-31 at 12.34.09 (4).jpeg"
     },
     {
-      "Identity": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2022-01-27 at 23.30.40.jpeg",
+      "Identity": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\img\\WhatsApp Image 2022-01-27 at 23.30.40.jpeg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/WhatsApp Image 2022-01-27 at 23.30.40.jpeg",
       "AssetKind": "All",

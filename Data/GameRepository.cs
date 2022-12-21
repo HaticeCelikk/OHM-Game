@@ -3,15 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using shopapp.webui.Models;
+using MySql.Data.MySqlClient;
 
 namespace shopapp.webui.Data
 {
     public static class GameRepository
     {
-        private static List<Game> _games= null;
+        private static List<Game> _games= new List<Game>();
+
+        
 
         static GameRepository()
         {
+             
             _games=new List<Game>{
                 new Game {GameId=1,Name="among us",Price=8, Description="yalan söyle",ImageUrl="1.jpg",CategoryId = 1},
                 new Game {GameId=2,Name="zula",Price=200, Description="berbat oyun",ImageUrl="2.jpg",CategoryId = 2},
@@ -27,6 +31,8 @@ namespace shopapp.webui.Data
             };
         
         }
+        // örnek metot
+       
         public static List<Game> Game{
             get{
                 return _games;

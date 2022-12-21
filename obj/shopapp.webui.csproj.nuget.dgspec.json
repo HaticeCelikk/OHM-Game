@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hatic\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {}
+    "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hatic\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {
+    "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+        "projectUniqueName": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
         "projectName": "shopapp.webui",
-        "projectPath": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
-        "packagesPath": "C:\\Users\\hatic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hatic\\shopapp\\shopapp.webui\\obj\\",
+        "projectPath": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\shopapp.webui.csproj",
+        "packagesPath": "C:\\Users\\merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merve\\Desktop\\shopapp\\shopapp.webui\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hatic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

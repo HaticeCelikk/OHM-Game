@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using shopapp.webui.Models;
+using MySql.Data.MySqlClient;
 
 namespace shopapp.webui.Data
 {
     public class CategoryRepository
     {
-          private static List<Category> _categories= null;
-
+        private static List<Category> _categories= null;
+        
+              
         static CategoryRepository()
         {
             _categories=new List<Category>{
