@@ -1,1 +1,1 @@
-# OHM_Game
+# OHM-Game
